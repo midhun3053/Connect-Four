@@ -17,7 +17,7 @@ A fun, browser-based **Connect Four game** made with HTML, CSS, and JavaScript.
 - JavaScript (Vanilla DOM manipulation)
 
 ## 📸 Screenshot
-![Screenshot](screenshot.png)
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/6a54a5c1-6df0-4bfa-8f02-02e15ebfc260" />
 
 ## 🔗 Live Demo
 Coming soon...
